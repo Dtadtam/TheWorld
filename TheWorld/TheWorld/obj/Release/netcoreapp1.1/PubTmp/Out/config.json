@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "shawn@wildermuth.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Data Source=DESKTOP-KIC57AN\\MSSQLSERVER2016;Database=TheWorldDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  },
+  "Keys": {
+    "BingKey": "DONTEVERPUTKEYINSOURCECONTROL"
+  }
+}

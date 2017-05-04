@@ -1,0 +1,9 @@
+E:\Education\How to develop\MVC\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+E:\Education\How to develop\MVC\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+E:\Education\How to develop\MVC\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+E:\Education\How to develop\MVC\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+E:\Education\How to develop\MVC\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+E:\Education\How to develop\MVC\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+E:\Education\How to develop\MVC\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+E:\Education\How to develop\MVC\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+E:\Education\How to develop\MVC\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
